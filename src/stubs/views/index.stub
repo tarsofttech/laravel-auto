@@ -1,0 +1,6 @@
+@extends('layouts.app')
+
+@section('content')
+<h1>All {{ modelName }}</h1>
+<!-- Table or listing view code goes here -->
+@endsection
