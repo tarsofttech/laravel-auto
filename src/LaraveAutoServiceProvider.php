@@ -5,7 +5,7 @@ namespace Tarsoft\LaravelAuto;
 use Illuminate\Support\ServiceProvider;
 use Tarsoft\LaravelAuto\Commands\CrudCommand;
 
-class ConsoleServiceProvider extends ServiceProvider
+class LaraveAutoServiceProvider extends ServiceProvider
 {
     public function register()
     {
